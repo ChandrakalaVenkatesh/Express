@@ -1,0 +1,64 @@
+h3{
+    color: rgb(68, 11, 4);
+    
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    margin: 40px;
+    padding: 8px;
+}
+h2{
+    padding: 15px;
+    color: rgb(16, 7, 139);
+}
+body{
+     background-image:url("https://static.vecteezy.com/system/resources/previews/006/774/337/large_2x/top-view-with-copy-space-of-smartphone-book-glasses-and-pen-overhead-on-pink-pastel-background-flat-lay-and-mock-up-concept-free-photo.jpg"); 
+    /* background-image: url("https://cdn.pixabay.com/photo/2017/05/19/06/22/desk-2325627_1280.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav li{
+
+list-style: none;
+}
+  /* nav ul{
+float: right;
+  } */
+nav li a{
+    font-size: 18px;
+    padding:0px;
+    margin-right: 30px;
+    color: rgb(226, 207, 207);
+    text-decoration: none;
+}
+h1{
+    color: rgb(70, 4, 37);
+
+}
+footer{
+    padding-top: 20%;
+}
+nav ul{
+    max-width: 1500px;
+    width: 120%;
+    background-color: rgb(15, 6, 56);
+    
+}
+.navitems {
+     display: flex;
+    height: 100%;
+    align-items: center;
+    margin-top: 10%; 
+    margin: 0px;
+     justify-content:space-evenly; 
+       float: left; 
+}
+button{
+    background-color: rgb(5, 9, 49);
+    color: antiquewhite;
+    padding-left:2px;
+    
+}
+
